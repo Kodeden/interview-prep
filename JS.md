@@ -1,4 +1,10 @@
-Certainly! A pure function is a fundamental concept in functional programming. Here are the defining characteristics of a pure function:
+# JS Prep
+
+You should practice making these your own and come up with a couple of your own examples. Focus on explaining the examples and/or making your own analogies. Worry less about ‘memorizing’ 💩.
+
+## Explan Pure Functions
+
+A pure function is a fundamental concept in functional programming. Here are the defining characteristics of a pure function:
 
 1. **Deterministic**: For a given set of inputs, a pure function always returns the same output. This means if you call a pure function with the same arguments multiple times, you'll always get the same result.
 
