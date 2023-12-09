@@ -225,3 +225,7 @@ public class Main {
 ```
 
 This approach is more verbose and lacks the flexibility and expressiveness of true first-class functions. With the introduction of Java 8, Java introduced lambdas and functional interfaces which provide capabilities similar to first-class functions. However, it's still a bit different in feel and implementation compared to languages where functions have always been first-class citizens, like JavaScript or Python.
+
+## Discuss JS' Data Types
+
+[ChatGPT Conversation](https://chat.openai.com/share/34070283-ecdc-49c2-a8e7-f7a04a2b1da7)
