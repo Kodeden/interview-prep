@@ -229,3 +229,7 @@ This approach is more verbose and lacks the flexibility and expressiveness of tr
 ## Discuss JS' Data Types
 
 [ChatGPT Conversation](https://chat.openai.com/share/34070283-ecdc-49c2-a8e7-f7a04a2b1da7)
+
+## Discuss the Module Systems Within JS (e.g. CommonJS vs ESM)
+
+[ChatGPT Conversation](https://chat.openai.com/share/1b5d857e-1266-4a3c-b950-2b766f46c253)
