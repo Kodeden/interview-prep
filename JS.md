@@ -233,3 +233,7 @@ This approach is more verbose and lacks the flexibility and expressiveness of tr
 ## Discuss the Module Systems Within JS (e.g. CommonJS vs ESM)
 
 [ChatGPT Conversation](https://chat.openai.com/share/1b5d857e-1266-4a3c-b950-2b766f46c253)
+
+## Discuss Asynchronicity in JS
+
+[ChatGPT Conversation](https://chat.openai.com/share/6be54dd0-e56c-4d6d-93d6-e7d98a530798)
