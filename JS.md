@@ -2,7 +2,7 @@
 
 You should practice making these your own and come up with a couple of your own examples. Focus on explaining the examples and/or making your own analogies. Worry less about ‘memorizing’ 💩.
 
-## Explan Pure Functions
+## Explain Pure Functions
 
 A pure function is a fundamental concept in functional programming. Here are the defining characteristics of a pure function:
 
